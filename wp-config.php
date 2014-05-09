@@ -56,6 +56,13 @@ define( 'WPLANG', 'de_DE' );
 ini_set( 'display_errors', 0 );
 define( 'WP_DEBUG_DISPLAY', false );
 
+
+// ========================================================
+// Disable Theme and Plugin editors in administration panel
+// ========================================================
+define('DISALLOW_FILE_EDIT', true);
+
+
 // =================================================================
 // Debug mode
 // Debugging? Enable these. Can also enable them in local-config.php
