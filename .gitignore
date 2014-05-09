@@ -1,0 +1,12 @@
+
+/content/upgrade/
+/local-config.php
+
+sitemap.xml
+sitemap.xml.gz
+
+# no need for these #
+readme.html
+license.txt
+.log
+.DS_Store
