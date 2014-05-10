@@ -14,4 +14,4 @@ define( 'DB_HOST', 'localhost' ); // Probably 'localhost'
 
 // Overwrites the database to save keep edeting the DB
 define('WP_HOME','local_home_url');
-define('WP_SITEURL','local_site_url');
+define('WP_SITEURL','local_site_url/wp');
